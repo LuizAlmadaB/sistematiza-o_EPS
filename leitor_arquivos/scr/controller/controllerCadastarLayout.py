@@ -15,8 +15,8 @@ def criar_novo_layout(sistema, nome_arquivo, nome_colunas, tamanho_colunas) -> o
     novo_layout = {
         "sistema": sistema,
         "nome_arquivo": nome_arquivo,
-        "nome_colunas": [coluna.strip() for coluna in nome_colunas.split(",")],
-        "tamanho_colunas": [int(tamanho.strip()) for tamanho in tamanho_colunas.split(",")]
+        "nome_colunas": nome_colunas,
+        "tamanho_colunas": tamanho_colunas
     }
     
     # Verifica se o arquivo existe e carrega os layouts existentes

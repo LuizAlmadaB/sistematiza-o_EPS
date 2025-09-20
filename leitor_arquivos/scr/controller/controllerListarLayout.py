@@ -21,3 +21,4 @@ def listar_layouts() -> list:
     return lista_de_layouts_disponiveis
 
 
+print(listar_layouts())

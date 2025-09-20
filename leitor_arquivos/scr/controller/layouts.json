@@ -106,5 +106,19 @@
             17,
             10
         ]
+    },
+    "teste3": {
+        "sistema": "sistema",
+        "nome_arquivo": "teste3",
+        "nome_colunas": [
+            "nome",
+            "idade",
+            "peso"
+        ],
+        "tamanho_colunas": [
+            17,
+            2,
+            2
+        ]
     }
 }
