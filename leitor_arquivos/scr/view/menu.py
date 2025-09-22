@@ -4,7 +4,7 @@ import json
 import os
 import sys
 from pathlib import Path
-src_path = Path(__file__).resolve().parent.parent.parent  # supondo que o arquivo está em src/controller
+src_path = Path(__file__).resolve().parent.parent.parent  
 sys.path.append(str(src_path))
 
 from scr.controller import controllerCadastarLayout

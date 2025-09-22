@@ -1,124 +1,18 @@
 {
-    "m456": {
-        "sistema": "siapi",
-        "nome_arquivo": "m456",
+    "arquivo_teste": {
+        "sistema": "sisteste",
+        "nome_arquivo": "arquivo_teste",
         "nome_colunas": [
-            "nome",
-            "idade"
+            "TP",
+            "Contrato",
+            "Nome",
+            "Valor"
         ],
         "tamanho_colunas": [
-            20,
-            2
-        ]
-    },
-    "m123": {
-        "sistema": "siapi",
-        "nome_arquivo": "m123",
-        "nome_colunas": [
-            "nome",
-            "idade",
-            "tp"
-        ],
-        "tamanho_colunas": [
-            20,
             2,
-            4
-        ]
-    },
-    "m789": {
-        "sistema": "siapi",
-        "nome_arquivo": "m789",
-        "nome_colunas": "tp, nome, idade",
-        "tamanho_colunas": "1, 20, 2"
-    },
-    "m1011": {
-        "sistema": "siapi",
-        "nome_arquivo": "m1011",
-        "nome_colunas": "nome, idade, ip",
-        "tamanho_colunas": "20, 2, 4"
-    },
-    "m1013": {
-        "sistema": "siapi",
-        "nome_arquivo": "m1013",
-        "nome_colunas": [
-            "nome",
-            "idade",
-            "tp"
-        ],
-        "tamanho_colunas": [
+            8,
             20,
-            2,
-            4
-        ]
-    },
-    "m1014": {
-        "sistema": "siapi",
-        "nome_arquivo": "m1014",
-        "nome_colunas": [
-            "a"
-        ],
-        "tamanho_colunas": [
-            "b"
-        ]
-    },
-    "teste_final": {
-        "sistema": "siapi",
-        "nome_arquivo": "teste_final",
-        "nome_colunas": [
-            "nome",
-            "idade",
-            "contrato",
-            "tp",
-            "endereço"
-        ],
-        "tamanho_colunas": [
-            "20",
-            "2",
-            "17",
-            "1",
-            "40"
-        ]
-    },
-    "123k": {
-        "sistema": "siapi",
-        "nome_arquivo": "123k",
-        "nome_colunas": [
-            "nome",
-            "idade"
-        ],
-        "tamanho_colunas": [
-            20,
-            2
-        ]
-    },
-    "m1015": {
-        "sistema": "siapi",
-        "nome_arquivo": "m1015",
-        "nome_colunas": [
-            "nome",
-            "idade",
-            "contrato",
-            "telefone"
-        ],
-        "tamanho_colunas": [
-            40,
-            2,
-            17,
             10
-        ]
-    },
-    "teste3": {
-        "sistema": "sistema",
-        "nome_arquivo": "teste3",
-        "nome_colunas": [
-            "nome",
-            "idade",
-            "peso"
-        ],
-        "tamanho_colunas": [
-            17,
-            2,
-            2
         ]
     }
 }
